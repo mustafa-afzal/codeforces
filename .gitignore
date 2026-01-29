@@ -1,0 +1,5 @@
+# Example content for .gitignore
+*.out
+*.exe
+*.o
+.DS_Store
